@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aifaith&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aifaith&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aifaith&hide_progress=true)
 
 <!--
 ⚡ Dynamically generated stats for your github readmes:https://github.com/anuraghazra/github-readme-stats
