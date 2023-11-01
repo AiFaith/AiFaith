@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aifaith&show_icons=true)
 
+https://profile-summary-for-github.com/user/aifaith
 <!--
 ⚡ Dynamically generated stats for your github readmes:https://github.com/anuraghazra/github-readme-stats
 -->
